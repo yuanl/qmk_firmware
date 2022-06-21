@@ -31,6 +31,8 @@
 
 #define IGNORE_MOD_TAP_INTERRUPT
 #define MASTER_RIGHT
+#define MK_KINETIC_SPEED
+#define MOUSEKEY_INTERVAL 16
 
 /*
  * Feature disable options
