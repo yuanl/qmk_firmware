@@ -31,13 +31,15 @@
 
 #define EE_HANDS
 #define IGNORE_MOD_TAP_INTERRUPT
-#define MK_KINETIC_SPEED
-#define MOUSEKEY_INTERVAL 16
+/* #define MK_KINETIC_SPEED */
+/* #define MOUSEKEY_INTERVAL 16 */
 
 /*
  * Feature disable options
  *  These options are also useful to firmware size reduction.
  */
+
+#define NO_MUSIC_MODE
 
 /* disable debug print */
 //#define NO_DEBUG

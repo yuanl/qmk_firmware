@@ -1,3 +1,7 @@
 SPLIT_KEYBOARD = yes
 SERIAL_DRIVER = usart
 DEBOUNCE_TYPE = sym_defer_pr
+
+LTO_ENABLE = yes
+MOUSEKEY_ENABLE = no
+MUSIC_ENABLE = no
