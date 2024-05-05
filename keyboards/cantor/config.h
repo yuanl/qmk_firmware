@@ -7,6 +7,11 @@
 #define SERIAL_USART_TX_PIN B6     // USART TX pin
 #define SERIAL_USART_RX_PIN B7     // USART RX pin
 
+#define EE_HANDS
+
+#define TAPPING_TERM 210
+#define QUICK_TAP_TERM 120
+
 /*
  * Feature disable options
  *  These options are also useful to firmware size reduction.
