@@ -9,7 +9,7 @@
 
 #define EE_HANDS
 
-#define TAPPING_TERM 210
+#define TAPPING_TERM 170
 #define QUICK_TAP_TERM 120
 
 /*
