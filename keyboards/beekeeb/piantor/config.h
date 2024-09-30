@@ -5,6 +5,9 @@
 
 #define USB_VBUS_PIN GP24
 
+// Only need to flash with EEPROM bootloader once.
+#define EE_HANDS
+
 #define RP2040_BOOTLOADER_DOUBLE_TAP_RESET
 #define RP2040_BOOTLOADER_DOUBLE_TAP_RESET_TIMEOUT 1000U
 
