@@ -42,9 +42,9 @@
       "KC_DOT",
       "KC_SLSH",
       "KC_BSLS",
-      "KC_TAB",
+      "KC_ENT",
       "KC_SPC",
-      "LT(1,KC_ENT)",
+      "MO(1)",
       "KC_ENT",
       "KC_BSPC",
       "KC_RSFT"
