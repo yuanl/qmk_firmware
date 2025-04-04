@@ -44,7 +44,7 @@ bool get_chordal_hold(uint16_t tap_hold_keycode, keyrecord_t* tap_hold_record,
             break;
 
         case LALT_T(KC_D):
-            if (other_keycode == KC_U) {
+            if (other_keycode == KC_O) {
                 return false;
             } else if (other_keycode == KC_SPC) {
                 return true;
